@@ -1,0 +1,9 @@
+GetTodayInHistoryData a fact
+GetTodayInHistoryData tell me a fact
+GetTodayInHistoryData give me a fact
+GetTodayInHistoryData give me some information
+GetTodayInHistoryData tell me something
+GetTodayInHistoryData give me something
+GetTodayInHistoryData what happened today in history
+GetTodayInHistoryData what today
+GetTodayInHistoryData what happened on this date
