@@ -12,5 +12,7 @@ Use Today in History to retrieve details about an event that happened on this da
 
 ## Skill details
 Invocation name: today in history
+
 Uses: Today In History API managed by <http://history.muffinlabs.com/>
+
 This skill contains dynamic content
