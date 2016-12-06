@@ -5,6 +5,7 @@ Enable Today in History (by Allen Kramer) - follow this guide: <https://www.amaz
 
 ## Examples
 "Alexa, ask Today In History what happened on this date in history"
+
 "Alexa, ask Today In History to tell me a fact"
 
 ## Description
